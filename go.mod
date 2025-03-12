@@ -1,4 +1,4 @@
-module github.com/iarsham/utilify
+module github.com/arshamroshannejad/utilify
 
 go 1.23.4
 
